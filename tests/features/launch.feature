@@ -19,7 +19,3 @@ Feature: Whats the weather
       | http://www.bbc.co.uk | EC4R     | EC4R    |
       | http://www.bbc.co.uk | EC4R     | EC4R    |
       | http://www.bbc.co.uk | EC4R     | EC4R    |
-      | http://www.bbc.co.uk | EC4R     | EC4R    |
-      | http://www.bbc.co.uk | EC4R     | EC4R    |
-      | http://www.bbc.co.uk | EC4R     | EC4R    |
-      | http://www.bbc.co.uk | EC4R     | EC4R    |
